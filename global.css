@@ -30,13 +30,11 @@ li {
   padding-top: 50px;
 }
 
-/* .social {
-  text-align: center;
-} */
+
 
 .media-tag {
   display: inline-block;
-  /* margin: auto; */
+
 }
 
 .fa {
@@ -53,10 +51,7 @@ li {
     opacity: 0.7;
 }
 
-.fa-facebook {
-  background: #3B5998;
-  color: white;
-}
+
 
 .fa-twitter {
   background: #55ACEE;
@@ -67,12 +62,17 @@ li {
     background: #125688;
     color: white;}
 
-footer  {
 
-  /* margin-top: 10px; */
-  /* background-color: #cc0066; */
-}
 
 li {
   list-style: none;
+}
+
+h4 {
+  color: black;
+}
+
+li a:link ,
+li a:visited {
+  color: black;
 }

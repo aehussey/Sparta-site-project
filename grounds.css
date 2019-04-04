@@ -7,10 +7,14 @@
  .pic-row {
   margin-top: 100px;
   margin-bottom: 0;
-  /* background-color: #cc0066; */
   height: 300px;
   }
 
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  margin-left: 15px;
+ }
 h2  {
   text-align: center;
   background-color: #cc0066;

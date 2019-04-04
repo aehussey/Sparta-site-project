@@ -56,12 +56,34 @@
 
 .pic-row {
   margin-top: 100px;
-  background-color: #cc0066;
+
   height: 400px;
   }
 
 h2 {
   color: white;
   text-align: center;
-  padding: 150px;
+  padding: 0 100px;
+  background-color: #cc0066;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  margin-left: 15px;
+}
+
+@media screen and (min-width:1200px) {
+
+  h2  {
+    padding: 160px 100px;
+    }
+  }
+
+@media screen and (max-width:768px) {
+
+  .pic-row {
+    height:200px;
+
+  }
 }
