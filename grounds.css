@@ -6,8 +6,9 @@
 
  .pic-row {
   margin-top: 100px;
+  margin-bottom: 0;
   /* background-color: #cc0066; */
-  height: 400px;
+  height: 300px;
   }
 
 h2  {

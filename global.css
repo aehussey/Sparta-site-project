@@ -19,8 +19,11 @@ li {
 }
 
 .bottom {
-  margin-top: 100px;
-  margin-bottom: 100px;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  background-image: linear-gradient(to bottom, white, #cc0066 90%);
+
 }
 
 .links {
@@ -62,11 +65,11 @@ li {
 
 .fa-instagram {
     background: #125688;
-    color: white;
+    color: white;}
 
 footer  {
 
-  margin-top: 100px;
+  /* margin-top: 10px; */
   /* background-color: #cc0066; */
 }
 

@@ -1,13 +1,13 @@
 .main-story {
   background-image: url(images/trophy.jpeg);
-  height: 700px;
+  height: 500px;
   background-size: 100%;
   background-repeat: no-repeat;
   }
 
 .other-story {
   background-image: url(images/trophy.jpeg);
-  height: 300px;
+  height: 225px;
   background-size: 100%;
   background-repeat: no-repeat;
   }
@@ -22,4 +22,14 @@
 
 .panel {
   align-self: center;
+}
+
+/* .panel-danger {
+  background-color: #cc0066;
+  color: white;
+  border-color: #cc0066;
+} */
+
+h3 {
+  padding:20px;
 }
