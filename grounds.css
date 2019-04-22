@@ -1,0 +1,65 @@
+.grounds-img {
+  height: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+ }
+
+ .pic-row {
+  margin-top: 100px;
+  margin-bottom: 0;
+  height: 300px;
+  }
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  margin-left: 15px;
+ }
+h2  {
+  text-align: center;
+  background-color: #cc0066;
+  margin: 0;
+  padding: 30px;
+  color: white;
+  height: 100px;
+}
+
+.grounds-img-br {
+ background-image: url(images/grounds/bristol.jpeg);
+ }
+
+.grounds-img-ca {
+background-image: url(images/grounds/cardiff.jpg);
+}
+
+.grounds-img-du {
+background-image: url(images/grounds/durham.jpg);
+}
+
+.grounds-img-ed {
+background-image: url(images/grounds/edgebaston.jpg);
+}
+
+.grounds-img-ha {
+background-image: url(images/grounds/hampshire.jpg);
+}
+
+.grounds-img-he {
+background-image: url(images/grounds/headingley.jpg);
+}
+
+.grounds-img-lo {
+background-image: url(images/grounds/lords.jpg);
+}
+
+.grounds-img-ov {
+background-image: url(images/grounds/oval.jpeg);
+}
+
+.grounds-img-ta {
+background-image: url(images/grounds/taunton.jpg);
+}
+
+.grounds-img-tb {
+background-image: url(images/grounds/trent-bridge.png);
+}

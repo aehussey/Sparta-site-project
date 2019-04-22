@@ -1,0 +1,89 @@
+.team-img-af {
+  background-image: url(images/Afghanistan/Afghan-team-photo.jpg);
+
+  }
+
+.team-img-au {
+  background-image: url(images/Australia/aus-team-photo.jpeg);
+
+  }
+
+.team-img-ba {
+  background-image: url(images/Bangladesh/bang-team-photo.jpg);
+
+  }
+
+.team-img-en {
+  background-image: url(images/England/eng-team-photo.jpg);
+
+  }
+
+.team-img-in {
+  background-image: url(images/India/india-team-photo.jpg);
+
+  }
+
+.team-img-nz {
+  background-image: url(images/New-Zealand/nz-team-photo.jpg);
+
+  }
+
+.team-img-pa {
+  background-image: url(images/Pakistan/pak-team-photo.jpg);
+
+  }
+
+.team-img-sa {
+  background-image: url(images/South-Africa/sa-team-photo.jpg);
+
+  }
+
+.team-img-sl {
+  background-image: url(images/Sri-Lanka/sl-team-photo.jpg);
+
+  }
+
+.team-img-wi {
+  background-image: url(images/West-Indies/wi-team-photo.jpg);
+
+  }
+
+.team-img {
+  height: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.pic-row {
+  margin-top: 100px;
+
+  height: 400px;
+  }
+
+h2 {
+  color: white;
+  text-align: center;
+  padding: 0 100px;
+  background-color: #cc0066;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  margin-left: 15px;
+}
+
+@media screen and (min-width:1200px) {
+
+  h2  {
+    padding: 160px 100px;
+    }
+  }
+
+@media screen and (max-width:768px) {
+
+  .pic-row {
+    height:200px;
+
+  }
+}
